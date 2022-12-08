@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Błażej Borowiak
-#### Electrical Design Engineer, Frontend Developer
-![Electrical Design Engineer, Frontend Developer](www.linkedin.com/in/blazejborowiak)
+![](www.linkedin.com/in/blazejborowiak)
 
 In April 2022, I started learning Web development in the form of mentoring. So far:
 - I have mastered the basics of HTML, CSS and JS,
