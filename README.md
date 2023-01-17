@@ -8,7 +8,7 @@ In April 2022, I started learning Web development in the form of mentoring. So f
 - I learned the basics of SCSS and Tailwind CSS,
 - I learned how to create Vue.js components using Composition API.<br><br>
 Feel free to take a look at my first project www.abc-sportu.pl
-
+My personal page www.blazejborowiak.pl
 Skills:  VUE JS  / JS / HTML / CSS / GIT / GITHUB / SCSS / TAILWIND CSS
 
 - 🔭 I’m currently working on Web development 
